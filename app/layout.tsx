@@ -19,7 +19,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className={sourceSerif4.className}>
-      <body>
+      <body className="bg-zinc-950">
         {children}
       </body>
     </html>

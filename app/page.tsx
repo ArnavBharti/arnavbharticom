@@ -1,9 +1,9 @@
 export default function Home() {
   return (
-    <div className="container mx-auto border h-screen border-zinc-700 text-zinc-400 bg-zinc-900">
+    <div className="container mx-auto border h-dvh border-zinc-700 text-zinc-400 bg-zinc-900">
       <h1 className="border-b p-4 text-5xl border-zinc-700 text-zinc-50">Arnav Bharti</h1>
       <section className="border-b p-4 border-zinc-700">
-        <h2 className="text-4xl text-zinc-100">About</h2>
+        <h2 className="text-4xl text-zinc-100 pb-2">About</h2>
         <p>
           I enjoy machine learning and building apps. Outside of programming, I
           like Minecraft, Game of Thrones, and Harry Potter.
@@ -15,7 +15,7 @@ export default function Home() {
         </ul>
       </section>
       <section className="border-b p-4 border-zinc-700">
-        <h2 className="text-4xl text-zinc-100">Links</h2>
+        <h2 className="text-4xl text-zinc-100 pb-2">Links</h2>
         <ul>
           <li><a href="https://linkedin.com/in/arnavbharti01/" rel="noopener noreferrer" target="_blank" className="underline">LinkedIn</a></li>
           <li><a href="https://github.com/arnavbharti/" rel="noopener noreferrer" target="_blank" className="underline">GitHub</a></li>
