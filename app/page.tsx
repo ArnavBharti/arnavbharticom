@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-    <div className="container mx-auto border h-dvh border-zinc-700 text-zinc-400 bg-zinc-900">
+    <div className="container mx-auto border min-h-dvh border-zinc-700 text-zinc-400 bg-zinc-900">
       <h1 className="border-b p-4 text-5xl border-zinc-700 text-zinc-50">Arnav Bharti</h1>
       <section className="border-b p-4 border-zinc-700">
         <h2 className="text-4xl text-zinc-100 pb-2">About</h2>
