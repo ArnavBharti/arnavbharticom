@@ -20,7 +20,7 @@ export default function Home() {
           <li><a href="https://linkedin.com/in/arnavbharti01/" rel="noopener noreferrer" target="_blank" className="underline">LinkedIn</a></li>
           <li><a href="https://github.com/arnavbharti/" rel="noopener noreferrer" target="_blank" className="underline">GitHub</a></li>
           <li><a href="https://x.com/arnavbharti01/" rel="noopener noreferrer" target="_blank" className="underline">X</a></li>
-          <li><a href="https://anolpqiqdkwraodz.public.blob.vercel-storage.com/arnav_bharti_resume-Cmrd1ueufQoylVTcUcimIMxD2R4gA0.pdf" rel="noopener noreferrer" target="_blank" className="underline"  >Resume</a></li>
+          <li><a href="https://anolpqiqdkwraodz.public.blob.vercel-storage.com/arnavs-resume-bits.pdf" rel="noopener noreferrer" target="_blank" className="underline"  >Resume</a></li>
         </ul>
       </section>
       <address className="border-b p-4 border-zinc-700">
